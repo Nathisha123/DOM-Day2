@@ -1,0 +1,28 @@
+
+body{
+    background-color: #E6ECEF;
+}
+/* div
+{
+    background-color: white;
+    color: #1EA8F4;
+    border-radius: 30px;
+    font-size: x-large;
+    height: 300px;
+    width: 800px;
+    justify-content : center;
+    align-items: center;
+    border: 1px solid rgba(154, 154, 241, 0.781); 
+    padding:2%;  
+    display: grid;
+    align-items: center; 
+} */
+
+.btn
+{
+     
+     height: auto;
+     width: auto;
+     background-color: gray;
+     border:2px solid black;
+}

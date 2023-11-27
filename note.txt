@@ -1,0 +1,25 @@
+DOM:- 
+Day -2: Document vs Window
+Contents:
+Window - Common Util functions
+setTimeout vs setInterval
+prompt, Alert, Confirm
+working with events
+
+
+
+Event:
+refer: event-listener-demo.netlify.app
+
+prompt: to get user input
+window.open()--->to open a window page
+window.close()--->to close a window page
+
+Event Listener:
+1. addEventListener:
+  has  2 parameters 
+=>event name(ie, click, double click)
+  =>function that has to be executed(what willl happen on clicking the event)
+  syntax:
+
+  variablename.addEventListener(events, functions)
